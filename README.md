@@ -1,2 +1,4 @@
 # socketio-chat
-A char sample using nodejs and socket.io
+A char example using nodejs and socket.io
+
+Based on https://github.com/mmukhin/psitsmike_example_2
